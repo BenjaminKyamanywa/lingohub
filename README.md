@@ -11,6 +11,8 @@ This is an example front end project for Lingohub application.
 Take the following steps to set up the application on your local machine. 
 Clone the project repo to your preferred location using https://github.com/BenjaminKyamanywa/lingohub.git
 
+### Install npm dependencies
+
 ```$ npm install```
 
 ### Compiles and hot-reloads for development
