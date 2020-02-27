@@ -7,7 +7,7 @@ This is an example front end project for Lingohub application.
 - Tailwind CSS
 - Mirage
 
-## Project setup :wrench
+## Project setup :wrench:
 Take the following steps to set up the application on your local machine. 
 Clone the project repo to your preferred location using
 
